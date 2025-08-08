@@ -1,0 +1,15 @@
+{
+  "employees": {
+    "f8-98-b9-7f-fe-0d": "Ahsan",
+    "ff-ff-ff-ff-ff-ff": "Broadcast Device",
+    "01-00-5e-00-00-16": "Multicast Device 1",
+    "01-00-5e-00-00-fb": "Multicast Device 2",
+    "01-00-5e-00-00-fc": "Multicast Device 3",
+    "01-00-5e-7f-ff-fa": "Multicast Device 4"
+  },
+  "scan_interval_seconds": 60,
+  "web_port": 5000,
+  "office_timeout_hour": 17,
+  "office_timeout_minute": 0
+}
+

@@ -1,0 +1,8 @@
+Name,MAC Address,Date,Time In,Time Out,Total Break (HH:MM:SS),Total Work (HH:MM:SS),Status
+Ahsan,f8-98-b9-7f-fe-0d,2025-07-28,16:13:57,N/A,0:00:00,0:00:00,Present
+Broadcast Device,ff-ff-ff-ff-ff-ff,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent
+John Smith Updated,aa-bb-cc-dd-ee-ff,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent
+Multicast Device 1,01-00-5e-00-00-16,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent
+Multicast Device 2,01-00-5e-00-00-fb,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent
+Multicast Device 3,01-00-5e-00-00-fc,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent
+Multicast Device 4,01-00-5e-7f-ff-fa,2025-07-28,N/A,N/A,0:00:00,0:00:00,Absent

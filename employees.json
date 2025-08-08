@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ahsan",
+    "mac_address": "f8-98-b9-7f-fe-0d",
+    "picture": "static/img/ahsan.jpg"
+  },
+  {
+    "name": "John Smith Updated",
+    "mac_address": "aa-bb-cc-dd-ee-ff",
+    "picture": "static/img/john_doe.jpg"
+  }
+]
